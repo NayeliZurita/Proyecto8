@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.canvas {
+    margin: auto;
+    width: 404px;
+    border: 15px double #f66;
+    padding: 10px;
+
+}
+header h2 {
+    text-align: center;   
+    color: white;
+    font-family: monospace;
+    font-size: 25px;
+}
+
+header div{
+    display: flex;
+    justify-content: space-around;
+    background-color: #69c;
+}
+p{
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+}
